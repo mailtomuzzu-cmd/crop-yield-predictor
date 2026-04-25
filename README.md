@@ -3,7 +3,7 @@
 A machine learning web app that predicts crop yield based on farming conditions.
 
 ## Live Demo
-[Click here to try the app]([your_huggingface_space_link](https://muzakkir-cmd-crop-yield-predictor.hf.space/?__theme=system&deep_link=ULlCJjW7zDI))
+[Click here to try the app](https://muzakkir-cmd-crop-yield-predictor.hf.space/?__theme=system&deep_link=ULlCJjW7zDI)
 
 ## Problem
 Farmers and agricultural planners need to estimate crop yield based on 
